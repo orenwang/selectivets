@@ -9,7 +9,7 @@ from selectivets.utils import visualize
 
 
 if __name__ == "__main__":
-    cfg = cfg_fromjson('examples/config/SelectiveTimeseries_20200329.json')
+    cfg = cfg_fromjson('examples/config/DAX_price_1in.json')
     cfg.NUM_EPOCHS = 2  # Only for demo.
     cfg.NN_TYPE = 'LinearSingleFeature'
 
