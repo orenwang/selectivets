@@ -1,0 +1,6 @@
+{
+    "DATA_PATH": "examples/data/DAX.csv",
+    "COLS": ["Open", "High", "Low", "Volume", "Adj Close", "Return"],
+    "BODY_OUT_DIM": 12,
+    "BASE_LR": 0.002
+}

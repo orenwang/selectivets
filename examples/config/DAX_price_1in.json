@@ -1,0 +1,6 @@
+{
+    "DATA_PATH": "examples/data/DAX.csv",
+    "BASE_LR": 0.002,
+    "BODY_OUT_DIM": 2,
+    "SEQ_LEN": 20
+}

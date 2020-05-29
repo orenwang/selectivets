@@ -1,0 +1,6 @@
+{
+    "DATA_PATH": "examples/data/SP500.csv",
+    "COLS": ["Return"],
+    "BODY_OUT_DIM": 2,
+    "BASE_LR": 0.002
+}

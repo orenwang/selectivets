@@ -1,0 +1,5 @@
+{
+    "DATA_PATH": "examples/data/HSI.csv",
+    "COLS": ["Return"],
+    "NN_TYPE": "LSTM"
+}
