@@ -13,7 +13,7 @@ if __name__ == "__main__":
     cfg.NUM_EPOCHS = 2  # Only for demo.
     cfg.NN_TYPE = 'LinearSingleFeature'
 
-    model = train(cfg
+    model = train(cfg)
     test(cfg, model)
     visualize(cfg, model)
 
